@@ -1,0 +1,1 @@
+# hyprland-waybar-kitty-wofi
